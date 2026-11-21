@@ -1,4 +1,4 @@
-# PMD1 · Caso 01 Delivery — Equipo 11 · Sección B
+# PMD1 · Caso 01 Delivery — Grupo 11 · Sección B
 
 Proyecto Integrador de Datos del curso **Fundamentos de Gestión de Datos** (TECSUP 2026-II · Docente: Pilar Rocío Sayán Mejía).
 
@@ -7,9 +7,9 @@ Proyecto Integrador de Datos del curso **Fundamentos de Gestión de Datos** (TEC
 ## Contenido
 | Archivo | Qué es |
 |---|---|
-| `PMD1_FGD_Grupo11_Delivery.ipynb` | Notebook de Google Colab: carga, SQL, EDA, limpieza, regresión lineal simple y K-Means |
-| `Informe_PMD1_FGD_Grupo11_Delivery.docx` | Informe técnico (sin código) |
-| `PPT_PMD1_FGD_Grupo11_Delivery.pptx` | Presentación para la sustentación |
+| `Proyecto_Caso_Delivery_Jhonathan_Rodriguez_Gonzales.ipynb` | Notebook de Google Colab: carga, SQL, EDA, limpieza, regresión lineal simple y K-Means |
+| `INFORME_TÉCNICO_-_JHONATHAN_RODRIGUEZ_GONZALES.pdf` | Informe técnico (sin código) |
+| `PPT-_Jhonathan_Rodriguez_Gonzales.pptx` | Presentación para la sustentación |
 
 ## Datos
 Datos sintéticos del curso, descargados por el notebook desde:
@@ -18,7 +18,7 @@ https://github.com/Rociosayan/PMD1_Fundamentos_Gestion_Datos/tree/main/casos_PMD
 ## Cómo ejecutar
 Abrir el notebook en Google Colab → **Entorno de ejecución → Ejecutar todas**. No requiere archivos locales.
 
-Notebook en Colab: [pegar enlace]
+Notebook en Colab: https://colab.research.google.com/github/jhonathanrodriguez1/PMD1_FGD_Grupo11_Delivery/blob/main/Proyecto_Caso_Delivery_Jhonathan_Rodriguez_Gonzales.ipynb
 
-## Integrantes
-- Rodríguez Gonzales, Jhonathan Steven
+## Integrante
+- Rodríguez Gonzales, Jhonathan Steven (trabajo individual)
